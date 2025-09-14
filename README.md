@@ -1,6 +1,6 @@
 # The-Canteen-Menu-Optimizer
 
-📌 Project Overview
+📌 *Project Overview*
 
 The Canteen Menu Optimizer is a Machine Learning project designed for SNU canteen management. The goal is to predict students' dietary preferences (Veg, Non-Veg, Vegan, Jain) based on their favorite cuisine, spice tolerance, and sweet tooth level.
 
@@ -12,7 +12,8 @@ Improve menu planning
 
 Increase student satisfaction
 
-📊 Dataset
+
+📊 *Dataset*
 
 Source: Collected through Google Form (111 student responses).
 
@@ -26,7 +27,8 @@ Sweet Tooth Level → Rating (1–5)
 
 Target: Dietary Preference (Veg / Non-Veg / Vegan / Jain)
 
-🛠️ Methodology
+
+🛠️ *Methodology*
 
 Data Preprocessing
 
@@ -50,7 +52,8 @@ F1 Score
 
 Confusion Matrix
 
-🚀 Results
+
+🚀 *Results*
 
 Accuracy: ~82%
 
@@ -60,13 +63,14 @@ Random Forest performed better than Logistic Regression.
 
 Cuisine choice was the most important feature.
 
+
 📊 Visualizations included:
 
 Confusion Matrix
 
 Feature Importance
 
-🔑 Insights
+🔑 *Insights*
 
 Veg students → higher sweet tooth → more dessert options needed.
 
@@ -75,8 +79,8 @@ Non-Veg students → prefer spicy → stock more spicy items.
 Jain/Vegan students → fewer → limited but consistent options to avoid waste.
 
 
-👥 Team Members
+👥 *Team Members*
 
-Aman Kumar
-Sweta Rani
+Aman Kumar,
+Sweta Rani,
 Shreyoshi Ghosh.
